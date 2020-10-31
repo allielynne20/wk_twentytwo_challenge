@@ -6,7 +6,7 @@
 
 This application allows a user to login and shop for products. They can add items to their cart and checkout using the Stripe software.
 
-![Redux_Shop](./Redux_Shop.PNG)
+![Redux_Shop](./Redux_Shop.png)
 
 ## **Table of Contents**
 
